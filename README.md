@@ -1,4 +1,4 @@
-# Zomathon 2026: Cart Super Add-On (CSAO) Recommendation Engine
+# Zomathon 2026: Dynamic Meal Arc Engine
 
 **End-to-End ML Solution | Problem Statement 2 (Track 2)**
 
